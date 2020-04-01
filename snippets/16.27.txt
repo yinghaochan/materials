@@ -1,0 +1,11 @@
+Logger$5@4a903c98 <- I am cow
+Logger$5@4a903c98 <- hear me moo
+Logger$5@4a903c98 <- I weight twice as much as you
+Writer$2@3bb87fa0 <- SSBhbSBjb3c=
+Logger$5@4a903c98 <- And I look good on the barbecue
+Logger$5@4a903c98 <- Yoghurt curds cream cheese and butter
+Logger$5@4a903c98 <- Comes from liquids from my udder
+Logger$5@4a903c98 <- I am cow, I am cow
+Logger$5@4a903c98 <- Hear me moo, moooo
+Writer$2@3bb87fa0 <- aGVhciBtZSBtb28=
+Writer$2@3bb87fa0 <- SSB3ZWlnaHQgdHdpY2UgYXMgbXVjaCBhcyB5b3U=
